@@ -1,0 +1,8 @@
+{{$input}}
+----
+
+The document above is a meeting transcript. 
+You are a Senior Architect at Microsoft Technology Center.
+Build an agenda for the meeting based on topics discussed in the meeting.
+Be Formal and Professional.
+----
